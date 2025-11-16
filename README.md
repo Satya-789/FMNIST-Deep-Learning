@@ -1,5 +1,5 @@
-# FMNIST Classification using CNN and RNN
-## Fendy Hendriyanto and Team
+# FMNIST Classification using CNN 
+
 
 * <b>Introduction</b>
 
@@ -25,55 +25,7 @@
   | 9 	| Ankle Boot 	|
   
   <img src="https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/fashion-mnist-sprite.png" alt="" style="max-width:100%;">
-  
-  You can download the dataset in Kaggle or the link below :
-  
-  <table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Content</th>
-<th>Examples</th>
-<th>Size</th>
-<th>Link</th>
-<th>MD5 Checksum</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>train-images-idx3-ubyte.gz</code></td>
-<td>training set images</td>
-<td>60,000</td>
-<td>26 MBytes</td>
-<td><a href="http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz" rel="nofollow">Download</a></td>
-<td><code>8d4fb7e6c68d591d4c3dfef9ec88bf0d</code></td>
-</tr>
-<tr>
-<td><code>train-labels-idx1-ubyte.gz</code></td>
-<td>training set labels</td>
-<td>60,000</td>
-<td>29 KBytes</td>
-<td><a href="http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-labels-idx1-ubyte.gz" rel="nofollow">Download</a></td>
-<td><code>25c81989df183df01b3e8a0aad5dffbe</code></td>
-</tr>
-<tr>
-<td><code>t10k-images-idx3-ubyte.gz</code></td>
-<td>test set images</td>
-<td>10,000</td>
-<td>4.3 MBytes</td>
-<td><a href="http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz" rel="nofollow">Download</a></td>
-<td><code>bef4ecab320f06d8554ea6380940ec79</code></td>
-</tr>
-<tr>
-<td><code>t10k-labels-idx1-ubyte.gz</code></td>
-<td>test set labels</td>
-<td>10,000</td>
-<td>5.1 KBytes</td>
-<td><a href="http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz" rel="nofollow">Download</a></td>
-<td><code>bb300cfdad3c16e7a12a480ee83cd310</code></td>
-</tr>
-</tbody>
-</table>
+
 
 * <b>Content</b>
 
