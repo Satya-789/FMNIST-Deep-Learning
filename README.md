@@ -3,13 +3,8 @@
 
 * <b>Introduction</b>
 
-  Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
-  Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in 
-  replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure 
-  of training and testing splits. The MNIST dataset (arguably) is the dataset most often used as a starting point for image classification learning. 
-  The scientific data community likes this dataset and uses it as a benchmark to validate their algorithms. MNIST is often the first dataset that researchers try.
-  
-  <i>"If the algorithm cannot work with MNIST, the algorithm will not work for other data sets. If the algorithm works with MNIST, a good start, but that does not mean it can work for other data sets."</i>
+  Fashion-MNIST is a dataset—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
+  Each example is a 28x28 grayscale image, associated with a label from 10 classes. 
   
   | Label 	| Description 	|
   |:-----:	|-------------	|
